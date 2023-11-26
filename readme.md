@@ -15,3 +15,5 @@ Estou sempre aberto a colaborações e novas oportunidades. Se você está inter
 [![Linkedin](link_para_seu_perfil_Linkedin) LinkedIn]
 
 Espero que você aproveite explorando meus projetos tanto quanto eu aproveitei desenvolvendo-os. Happy coding! 🚀
+---
+[![](https://visitcount.itsvg.in/api?id=Claudio-Alves-Tech&icon=0&color=0)](https://visitcount.itsvg.in)
